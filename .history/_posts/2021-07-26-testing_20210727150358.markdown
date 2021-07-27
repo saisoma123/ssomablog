@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Testing!"
+---
+Just making sure everything is working!
+
+{% highlight java %}
+import java.util.Scanner;
+
+public class ScannerAndKeyboard
+{
+
+	public static void main(String[] args)
+	{	
+		System.out.println("System is a go!");
+	}
+}
+{% endhighlight %}
+![Testing](testing.jpg)

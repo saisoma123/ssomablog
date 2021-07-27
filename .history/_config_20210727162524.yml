@@ -21,7 +21,7 @@
 title: Surya Somayyajula's blog
 email: suryasai.somayyajula@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm Surya Somayyajula, I'm a programming languages and compilers enthusiast, and this is my blog on computer science and math.
+  I'm Surya Somayyajula, I'm a programming languages and compilers enthusiast, and this is my blog on all things computer science and math.
 baseurl: "/ssomablog" # the subpath of your site, e.g. /blog
 url: "https://saisoma123.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  saisoma123

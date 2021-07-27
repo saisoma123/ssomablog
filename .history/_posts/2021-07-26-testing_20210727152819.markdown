@@ -17,4 +17,4 @@ public class Test
 }
 {% endhighlight %}
 
-![Testing]({{site.baseurl}}/img/giphy.gif)
+![Testing]({{site.baseurl}}/img/testing.jpg)

@@ -50,4 +50,3 @@ an idea of what to expect. Well that's about all I can think of for now because 
 keep applying and fine tuning your application and leveling up your skills at your own pace, and you should be fine, because I had basically 
 no hope, and look at me now!
 
-![workinprogress]

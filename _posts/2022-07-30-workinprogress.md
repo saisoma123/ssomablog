@@ -35,7 +35,7 @@ much to offer companies.
 
 Anyways, now I have worked for the Compiler Research Group through the IRIS-HEP program for the past 2.5 months, and I have 
 learned a lot about open source development and compiler infrastructure. I definitely made many mistakes along the way, but 
-my mentor and other open source contributers guided me along the way and I feel that I have really grown as a developer.  
+my mentor and other open source contributers guided me along the way and I feel that I have really grown as a developer. <br>
 It's hard to believe I had trouble with Git just a mere 2 months ago! I've also learned a lot of low level packaging and OS details 
 that I think will aid me as a compiler and general developer in the future. And recently, I have become a top 15 contributer for the Cling 
 project! I am looking forward to working with the Compiler Research Group in the future! 

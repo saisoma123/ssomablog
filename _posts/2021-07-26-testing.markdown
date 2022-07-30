@@ -2,7 +2,8 @@
 layout: post
 title:  "Testing!"
 ---
-Just making sure everything is working!                                        l
+Just making sure everything is working!
+Testing a line break!
 
 {% highlight java %}
 import java.util.Scanner;

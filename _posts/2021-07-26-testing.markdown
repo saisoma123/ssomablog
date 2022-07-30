@@ -4,6 +4,7 @@ title:  "Testing!"
 ---
 Just making sure everything is working!
 Testing a line break!
+This is getting a little monotonous!
 
 {% highlight java %}
 import java.util.Scanner;
